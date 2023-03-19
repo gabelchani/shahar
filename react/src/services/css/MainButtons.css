@@ -1,0 +1,159 @@
+.under {
+    position: absolute;
+    width: 375px;
+    height: 77px;
+    left: -2px;
+    top: 734px;
+    background: #000000;
+    box-shadow: 0px 4px 8px rgba(201, 195, 195, 0.25);
+    border-radius: 30px 30px 0px 0px;
+}
+.text1{
+    position: absolute;
+    left: 7%;
+    right: 88.05%;
+    top: 3.57%;
+    bottom: 62.5%;
+    color: #EED6C4;
+    line-height: 105px;
+}
+.text2{
+    position: absolute;
+    left: 20.26%;
+    right: 60.79%;
+    top: 3.57%;
+    bottom: 62.5%;
+    line-height: 105px;
+    color: #EED6C4;
+}
+.text3{
+    position: absolute;
+    left: 42.53%;
+    right: 40.53%;
+    top: 3.57%;
+    bottom: -3.57%;
+    line-height: 105px;
+    color: #EED6C4;
+}
+.text4{
+    position: absolute;
+    left: 60.79%;
+    right: 20.26%;
+    top: 3.57%;
+    bottom: 62.5%;
+    line-height: 105px;
+    color: #EED6C4;
+}
+.text5{
+    position: absolute;
+    left: 81.05%;
+    right: 0%;
+    top: 3.57%;
+    bottom: 62.5%;
+    line-height: 105px;
+    color: #EED6C4;
+}
+#home{
+    position: absolute;
+    left: 27%;
+    right: 88.05%;
+    top: 3.57%;
+    color:#EED6C4;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    text-align: center;
+}
+#book{
+    position: absolute;
+    left: 28.26%;
+    right: 60.79%;
+    top: 3.57%;
+    /* bottom: 62.5%; */
+    color:#EED6C4;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    text-align: center;
+}
+#plus{
+
+    position: absolute;
+    left: 30%;
+    right: 40.53%;
+    top: 3.57%;
+    /* bottom: -3.57%; */
+    color:#EED6C4;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    text-align: center;
+}
+#table{
+    position: absolute;
+    left: 20.79%;
+    right: 20.26%;
+    top: 3.57%;
+    /* bottom: 62.5%; */
+    color:#EED6C4;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    text-align: center;
+}
+#comment{
+    position: absolute;
+    left: 8%;
+    right: 0%;
+    top: 3.57%;
+    /* bottom: 62.5%; */
+    color:#EED6C4;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    text-align: center;
+}
+#B1{
+    position: absolute;
+    left: 4%;
+    top: 0%;
+    bottom:-3.57%;
+    color:#EED6C4;
+  
+}
+#B2{
+    position: absolute;
+    left: 20%;
+    right: 60.79%;
+    top: 0%;
+    bottom:-3.57%;
+    color:#EED6C4;
+   
+}
+#B3{
+    position: absolute;
+    left: 40%;
+    right: 40.53%;
+    top: 0%;
+    bottom: -3.57%;
+    color:#EED6C4;
+    
+}
+#B4{
+    position: absolute;
+    left: 58%;
+    right: 20.26%;
+    top: 0%;
+    bottom: -3.57%;
+    color:#EED6C4;
+    
+}
+#B5{
+    position: absolute;
+    left:78%;
+    right: 40.26%;
+    top: 0%;
+    bottom:-3.57%;
+    color:#EED6C4;
+  
+}
